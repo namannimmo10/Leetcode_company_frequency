@@ -25,8 +25,8 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 # Google
 | # | Title | Acceptance |
 ---- | --- | --- |
-1007	|		Minimum Domino Rotations For Equal Row	|	50.90%	[] |
-929	|		Unique Email Addresses	|	68.20%	|
+1007	|		Minimum Domino Rotations For Equal Row	|	50.90% - ✔️|
+929	|		Unique Email Addresses	|	68.20%	| 
 975	|		Odd Even Jump	|	44.60%	|
 904	|		Fruit Into Baskets	|	41.90%	|
 947	|		Most Stones Removed with Same Row or Column	|	54.90%	|
