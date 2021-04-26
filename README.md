@@ -23,9 +23,9 @@ The collection of each company's tagged questions on [Leetcode](https://leetcode
 -[Linkedin](#linkedin)
 
 # Google
-| # | Title | Acceptance |
----- | --- | --- |
-1007	|		Minimum Domino Rotations For Equal Row	|	50.90% - ✔️|
+| # | Title | Acceptance | Solved |
+---- | --- | --- | --- |
+1007	|		Minimum Domino Rotations For Equal Row	|	50.90% | ✔️ |
 929	|		Unique Email Addresses	|	68.20%	| 
 975	|		Odd Even Jump	|	44.60%	|
 904	|		Fruit Into Baskets	|	41.90%	|
